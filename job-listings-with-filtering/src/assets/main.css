@@ -1,0 +1,11 @@
+:root {
+  --Dark-grayish-cyan: hsl(180, 8%, 52%);
+  --Desaturated-dark-cyan: hsl(180, 29%, 50%);
+  --Very-dark-grayish-cyan: hsl(180, 14%, 20%);
+  --Light-grayish-cyan-background: hsl(180, 52%, 96%);
+  --Light-grayish-cyan-filter-tablets: hsl(180, 31%, 95%);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
